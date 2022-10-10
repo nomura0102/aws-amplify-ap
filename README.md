@@ -1,1 +1,1 @@
-# aws-amplufy--app
+# aws-amplufy
